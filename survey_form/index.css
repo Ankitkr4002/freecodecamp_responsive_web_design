@@ -1,0 +1,58 @@
+
+
+
+#title {
+  color: white;
+  text-align: center;
+  
+}
+
+#survey {
+  background: green;
+  
+  
+  
+}
+
+
+
+#description {
+  color: white;
+  text-align: center;
+  
+}
+
+#submit {
+  color: white;
+  background: green;
+  padding: 10px;
+}
+#survey-form {
+  background: green;
+}
+
+#name-label {
+  padding: 10px;
+}
+
+#email-label {
+  padding: 10px;
+}
+
+#number-label {
+  padding: 10px;
+}
+
+
+<style>
+      div {
+        margin-bottom: 10px;
+       
+      }
+      label {
+
+        display: inline-block;
+        width: 200px;
+      }
+
+</style>
